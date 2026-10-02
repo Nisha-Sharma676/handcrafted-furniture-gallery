@@ -32,3 +32,6 @@ handcrafted-furniture-gallery/
 ├── script.js
 └── README.md
 ```
+## Live Demo
+
+https://handcrafted-furniture-gallery.vercel.app/
